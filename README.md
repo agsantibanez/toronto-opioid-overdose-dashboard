@@ -23,7 +23,7 @@ The project was developed as a professional analytics case study demonstrating d
 
 [Read the Full Analytical Report](Toronto-Opioid-Overdose-Analytical-Report.pdf)
 
-[Interactive Power BI dashboard link will be added here.](https://app.powerbi.com/links/gdGUN30REL?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare)
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/links/gdGUN30REL?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare)
 
 ## Key Findings
 
